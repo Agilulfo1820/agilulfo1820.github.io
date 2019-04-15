@@ -289,6 +289,7 @@ a.button.disabled:focus {
 
 .project-description {
   margin-bottom: 20px;
+  line-height: 1.5em;
 }
 
 .project-details {
@@ -716,7 +717,7 @@ a.button.disabled:focus {
 
 .about-heading2{
       max-width: 330px;
-      margin-top: -30px;
+      /* margin-top: -30px; */
       padding-bottom: 20px;
       padding-left: -30px;
 }
